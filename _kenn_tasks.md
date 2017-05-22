@@ -1,8 +1,8 @@
 # Kenn's Tasks
-    [ ] - Create user model
-        [ ] - Create migration and model
-        [ ] - implement bcrypt into model
-        [ ] - ensure that brcypt is hashing string password
+    [X] - Create user model
+        [X] - Create migration and model
+        [X] - implement bcrypt into model
+        [X] - ensure that brcypt is hashing string password
     [ ] - Create registration form
     [ ] - Implement Sessions
 #
